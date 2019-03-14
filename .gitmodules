@@ -1,0 +1,6 @@
+[submodule "tinyfa"]
+	path = tinyfa
+	url = https://github.com/edawson/tinyfa
+[submodule "libvcfh"]
+	path = libvcfh
+	url = https://github.com/edawson/libvcfh
